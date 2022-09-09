@@ -1,0 +1,10 @@
+
+new =  1.1141494736842104
+old =  1.1502551538123253
+1008 pieces in [28, 36] (grid ratio 1.2857) (piece ratio 1.1053) (badness = 1.15026)
+
+new =  1.1514789473684213
+old =  1.1091746126047426
+108 pieces in [9, 12] (grid ratio 1.3333) (piece ratio 1.0658) (badness = 1.10917)
+
+
